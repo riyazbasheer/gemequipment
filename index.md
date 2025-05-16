@@ -1,11 +1,22 @@
 ---
 layout: default
-title: Welcome to GEM Equipment
+title: GEM Equipment Rental
 ---
 
-# GEM Equipment Rental
+# 🚧 Site Under Construction
 
-We provide heavy construction machinery for rent across UAE
+Welcome to **GEM Equipment Rental** — your trusted partner for heavy equipment rentals, sales, and maintenance in the UAE.
 
-Contact us at: sales@gemequipment.ae
-Mobile 0506918639
+Our full website is coming soon!
+
+---
+
+## 📞 Contact Us
+
+**📧 Email:** [info@gemequipment.ae](mailto:info@gemequipment.ae)  
+**📞 Phone:** +971-50-123-4567  
+**📍 Location:** Dubai, United Arab Emirates
+
+---
+
+Stay tuned for updates, and thank you for your patience!
