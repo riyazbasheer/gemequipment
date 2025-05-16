@@ -1,16 +1,81 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
+  <meta charset="UTF-8">
   <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #f3f4f6;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+      color: #333;
+    }
+
+    header {
+      background: linear-gradient(90deg, #374151, #1f2937);
+      color: white;
+      padding: 60px 20px;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 36px;
+    }
+
+    header p {
+      font-size: 18px;
+      margin-top: 10px;
+    }
+
+    .content {
+      padding: 40px 20px;
+    }
+
+    .content h2 {
+      font-size: 28px;
+      color: #047857;
+    }
+
+    .content p {
+      font-size: 18px;
+      max-width: 600px;
+      margin: 0 auto 20px;
+    }
+
+    .contact {
+      margin-top: 30px;
+      font-weight: bold;
+      color: #111827;
+    }
+
+    footer {
+      background: #e5e7eb;
+      padding: 20px;
+      font-size: 14px;
+      color: #6b7280;
+    }
+  </style>
 </head>
 <body>
   <header>
-    <h1>{{ page.title }}</h1>
+    <h1>Welcome to GEM Equipment</h1>
+    <p>Your trusted partner for construction machinery rental in UAE</p>
   </header>
-  <main>
-    {{ content }}
-  </main>
+
+  <div class="content">
+    <h2>🚧 Site Under Construction</h2>
+    <p>We're working on something awesome! Our full website is coming soon.</p>
+    <p class="contact">
+      📞 Call: 050-691-8639<br>
+      📧 Email: sales@gemequipment.ae
+    </p>
+  </div>
+
+  <footer>
+    &copy; 2025 GEM Equipment Rental. All rights reserved.
+  </footer>
 </body>
 </html>
